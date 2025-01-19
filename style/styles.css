@@ -1,0 +1,19 @@
+* {
+    margin:0;
+}
+
+h1 {
+    background-color:#cacd99;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:bolder;
+    text-align:center;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+    text-align:center;
+}
