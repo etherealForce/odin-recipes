@@ -1,28 +1,41 @@
+* {
+    margin: 0;
+    /* border: 1px solid brown; */
+}
 
+html {
+    background-color: #5472c6;
+}
 
-h1 {
+h1, h2, h3, h4 {
     background-color:#cacd99;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     font-weight:bolder;
     text-align: center;
     margin-bottom: 20px;
+    text-decoration: underline;
+    color: #26320e;
 }
 
 a {
     text-decoration: none;
 }
 
-.homelist {
+ul, ol {
     list-style-type: none;
     text-align:center;
     font-size: 17px;
-    color: brown;
+    color: rgb(117, 105, 2);
     font-weight:bold;
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-color: #98c585;
-    
 }
 
 .homelist li {
     margin-bottom:20px;
+}
+
+img {
+    width: 400px;
+    height: auto;
 }
