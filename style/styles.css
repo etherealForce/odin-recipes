@@ -21,9 +21,12 @@ a {
     text-decoration: none;
 }
 
-ul, ol {
+ul {
     list-style-type: none;
     text-align:center;
+}
+
+ul, ol {
     font-size: 17px;
     color: rgb(117, 105, 2);
     font-weight:bold;
@@ -38,4 +41,18 @@ ul, ol {
 img {
     width: 400px;
     height: auto;
+}
+
+button {
+    background-color: #f5e504;
+    font-weight: bolder;
+    font-size:27px;
+    
+}
+
+p {
+    font-size: 18px;
+    font-weight: bold;
+    color: rgb(29, 27, 3);
+    background-color: #98c585;
 }
